@@ -3,6 +3,7 @@ import Image from "next/image";
 import styles from "./page.module.css";
 
 export default function Home() {
+  // test
 
   const handleClick1 = () => {
     window.location.href = 'https://yandex.ru/maps/-/CDxG5Gka';
