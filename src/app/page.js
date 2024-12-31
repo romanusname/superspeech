@@ -24,7 +24,6 @@ export default function Home() {
     <h1>Буду благодарна за оставленный отзыв 😊</h1>
       <button onClick={handleClick1}>Яндекс</button>
       <button onClick={handleClick2}>2GIS</button>
-      <button onClick={handleClick3}>ПроДокторов</button>
     </div>
   );
 }
